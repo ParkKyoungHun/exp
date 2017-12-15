@@ -1,0 +1,8 @@
+1. npm init -y
+2. npm install express --save
+3. app.js 생성
+4. file templates for vscode 설치
+5. ctrl + n || ctrl+shift+p => files : new file from templates 선택
+6. 사용자 설정에서 "templates.Author": "박경훈", 추가
+7. C:\Users\Administrator\.vscode\extensions\bam.vscode-file-templates-1.1.0 확인
+8. ctrl+shift+p => files : Edit File Templates => HTML 선택
